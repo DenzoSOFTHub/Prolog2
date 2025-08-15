@@ -4,9 +4,6 @@ import it.denzosoft.prolog.model.*;
 import java.util.*;
 
 
-
-
-
 public class Database {
     private final java.util.List<Clause> clauses = new ArrayList<>();
     private final java.util.List<Clause> dynamicClauses = new ArrayList<>();

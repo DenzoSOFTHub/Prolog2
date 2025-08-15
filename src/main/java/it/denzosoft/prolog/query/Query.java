@@ -8,9 +8,6 @@ import it.denzosoft.prolog.engine.Unifier;
 import java.util.*;
 
 
-
-
-
 public class Query {
     private final Term goal;
     private final Database database;

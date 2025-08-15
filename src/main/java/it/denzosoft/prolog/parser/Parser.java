@@ -7,9 +7,6 @@ import java.io.StringReader;
 import java.util.List;
 
 
-
-
-
 public class Parser {
     private final Lexer lexer;
     private Token currentToken;
